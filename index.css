@@ -1,0 +1,24 @@
+body{
+  background-color: rgb(197, 197, 197);
+}
+
+.app{
+width: 95vw;
+height: 95vh;
+overflow: hidden;
+text-align: center;
+
+}
+
+h1 {
+  width: 35%;
+  border: 2px solid rgb(7, 7, 7);
+  margin: 40vh auto 0px auto;
+  border-radius: 25px;
+  padding: 10px 0;
+  background-color: rgb(231, 231, 231);
+  box-shadow: rgba(0, 0, 0, 0.35);
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(0, 0, 0);
+  font-size: 60px;
+}
